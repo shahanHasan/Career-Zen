@@ -17,7 +17,7 @@
 <br>
 ![logo](https://img.shields.io/badge/Version%20Control-GIT-760732?style=flat&logo=appveyor.svg)
 <br><br>
-![logo](https://img.shields.io/badge/Developer-Md.%20Tashfiqul%20Islam%20|%20161%201593%20042-0636A5?style=plastic&logo=appveyor.svg)
+![logo](https://img.shields.io/badge/Developer-Md.%20Mohidul%20Hasan%20?style=plastic&logo=appveyor.svg)
 
 ## Stats
 
@@ -68,7 +68,7 @@ Any
 <p>Should be available on all but just keeping the two.</p>
 
 ## How to use: 
-By visiting link (https://www.MyCareerZen.tech/)
+By visiting link (https://www.MyCareerZen.tech/)  [Not Working Currently]
 
 ## Written in:
 	1. Frontend: Javascript, html, css, bootstrap
@@ -86,4 +86,4 @@ To be updated while in development
 	4. Version Control System: Github
 	
 ## Developers:
-Md. Tashfiqul Islam | 161 1593 042 (Scrum Master/Product Owner//Developer/QA Tester)
+Md. Mohidul Hasan (Scrum Master/Product Owner//Developer/QA Tester)
