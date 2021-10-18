@@ -17,7 +17,8 @@
 <br>
 ![logo](https://img.shields.io/badge/Version%20Control-GIT-760732?style=flat&logo=appveyor.svg)
 <br><br>
-![logo](https://img.shields.io/badge/Developer-Md.%20Mohidul%20Hasan%20?style=plastic&logo=appveyor.svg)
+![logo](https://img.shields.io/badge/Developer-Md.%20Mohidul%20Hasan-blue)
+
 
 ## Stats
 
