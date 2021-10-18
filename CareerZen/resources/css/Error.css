@@ -1,0 +1,54 @@
+/*======================
+    404 page
+=======================*/
+
+.Error-404 {
+    padding: 5rem 0;
+    background: #fff;
+    font-family: "Times New Roman";
+}
+
+#bg-404 {
+    background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+    height: 400px;
+    background-position: center;
+}
+
+.Error-404 img {
+    width: 100%;
+}
+
+#bg-404 h1 {
+    font-size: 80px;
+}
+
+.Error-second h3 {
+    text-align: center;
+    font-family: "Times New Roman";
+}
+
+.Error-second p {
+    text-align: center;
+    font-family: "Times New Roman";
+}
+
+.ButtonType {
+    text-align: center;
+}
+.Button {
+    background-color: #0e0e7e;
+    border: none;
+    border-radius: 8px;
+    color: rgb(202, 197, 197);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-flex;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.Button:hover {
+    text-decoration: none;
+    color: rgb(117, 116, 113);
+}
